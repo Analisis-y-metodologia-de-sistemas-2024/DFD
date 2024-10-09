@@ -14,9 +14,6 @@ Aquí hay un conjunto más completo de símbolos de diagrama de flujo que se pue
 6. **Documento (Document)**: Un rectángulo con una onda en su parte inferior.
 7. **Entrada Manual (Manual Input)**: Un rectángulo inclinado.
 8. **Archivo de Datos (Data Storage)**: Un cilindro.
-9. **Conector Fuera de Página (Off-page Connector)**: Se puede representar con un escudo.
-10. **Conector (Connector)**: Normalmente representado por un pequeño círculo.
-11. **Preparación (Preparation)**: Generalmente se ilustra con un hexágono.
 
 ### Paso 3: Ejemplo de Diagrama de Flujo Completo
 
