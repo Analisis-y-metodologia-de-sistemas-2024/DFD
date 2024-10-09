@@ -55,9 +55,8 @@ flowchart TD
 6. **F [(Almacenar Datos)]**: Simboliza el almacenamiento de datos en un sistema.
 7. **G [/Salida de Datos/]**: Lugar donde se introducen los datos salientes.
 8. **H [Generar Documento]**: Generación de un documento a partir de los datos procesados.
-9. **I {{Conector}}**: Utilizado para conectar diferentes partes del diagrama que pueden no estar directamente unidas.
-10. **J [\Mostrar al Usuario/]**: La salida es revisada por el usuario.
-11. **K ([Fin])**: Indica el final del proceso.
-12. **L [Generar Informe]**: Un sub-proceso opcional para creación de informes.
-13. **M {¿Más Procesos?}**: Decide si el flujo debe continuar con procesamiento adicional.
+9. **J [\Mostrar al Usuario/]**: La salida es revisada por el usuario.
+10. **K ([Fin])**: Indica el final del proceso.
+11. **L [Generar Informe]**: Un sub-proceso opcional para creación de informes.
+14. **M {¿Más Procesos?}**: Decide si el flujo debe continuar con procesamiento adicional. While?
 
