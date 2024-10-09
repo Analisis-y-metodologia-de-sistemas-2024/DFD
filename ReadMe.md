@@ -36,9 +36,7 @@ flowchart TD
     F --> G[/Salida de Datos/]
     
     G --> H[Generar Documento]
-    H --> I{{Conector}}
-    
-    I --> J[\Mostrar al Usuario/]
+    H --> J[\Mostrar al Usuario/]
     J --> K([Fin])
     
     H --> L[Generar Informe]
